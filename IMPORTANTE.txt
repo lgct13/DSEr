@@ -1,0 +1,3 @@
+Essa é a primeira versão do DSE, por isso é bastante simplória; porém, como já disse no readme, totalmente funcional.
+Ele consiste num buscador, obviamente, mas também, permite o administrador do site adicionar novos parâmentros de busca, sem ter que coloca-los manualmente no dumb_search_engine_base.dse, manualmente. Infelizmente, por causa da estrutura atual do projeto, não foi possível colocar algo que possa apagar parâmetros que não devem mais ser utilizados, mas isso é sempre possível indo direto no arquivo e apagando.
+Num futuro não muito distante, pretendo aproveitar boa parte da 1° versão e refina-la, colocando algumas outras funções convenientes que esta aqui não possui.
